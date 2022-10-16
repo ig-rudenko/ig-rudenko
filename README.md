@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, я Руденко Игорь</h1>
-<h3 align="center">Увлекаюсь разработкой на Python</h3>
+<h3 align="center">Занимаюсь разработкой программ на Python</h3>
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ig-rudenko" alt="ig-rudenko" /></a> </p>
