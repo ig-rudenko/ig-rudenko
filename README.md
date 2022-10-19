@@ -71,7 +71,7 @@
 </a>&nbsp;
 <!-- Zabbix -->
 <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="vagrant" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="40" height="40"/>
 </a>&nbsp;
 <!-- Vagrant -->
 <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
@@ -79,11 +79,15 @@
 </a>&nbsp;
 <!-- Ansible -->
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="vagrant" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
 </a>&nbsp;
 <!-- Wireshark -->
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-<img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="vagrant" width="40" height="40"/>
+<img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="wireshark" width="40" height="40"/>
+</a>
+<!-- VirtualBox -->
+<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/>
 </a>
 </p>
 
@@ -119,15 +123,15 @@
 
 <!-- Debian -->
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="mariadb" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="40" height="40"/>
 </a>&nbsp;
 <!-- Ubuntu -->
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="mysql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
 </a>&nbsp;
 <!-- Kali -->
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-<img src="https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png" alt="postgresql" width="40" height="40"/>
+<img src="https://seeklogo.com/images/K/kali-linux-logo-5A3B1D1555-seeklogo.com.png" alt="kali" width="40" height="40"/>
 </a>
 </p>
 
