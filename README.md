@@ -29,6 +29,10 @@
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
 </a>&nbsp;
+<!-- Vue.js -->
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue.js" width="40" height="40"/>
+</a>&nbsp;
 <!-- Docker -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="40" height="40"/> 
