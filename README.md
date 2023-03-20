@@ -17,6 +17,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>&nbsp;
+<!-- GO -->
+<a href="https://go.dev/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="80" height="40"/>
+</a>&nbsp;
 <!-- Bash -->
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -41,17 +45,9 @@
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
 </a>&nbsp;
-<!-- Kibana -->
-<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
-</a>&nbsp;
 <!-- Postman -->
 <a href="https://postman.com" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>&nbsp;
-<!-- Figma -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>&nbsp;
 <!-- GIT -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
