@@ -85,6 +85,10 @@
 <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/>
 </a>
+<!-- Jenkins -->
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+</a>
 </p>
 
 <h3 align="left">Databases:</h3>
