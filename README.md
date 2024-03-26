@@ -1,11 +1,10 @@
 <h1 align="center">Привет 👋, я Руденко Игорь</h1>
-<h3 align="center">Занимаюсь разработкой программ на Python</h3>
+<h3 align="center">Занимаюсь разработкой программ</h3>
 
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ig-rudenko" alt="ig-rudenko" /></a> </p>
--->
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+<h3 align="left">Languages&Frameworks and Tools:</h3>
 
 <p align="left"> 
 
@@ -29,9 +28,9 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
 </a>&nbsp;
-<!-- Flask -->
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+<!-- FastAPI -->
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
 </a>&nbsp;
 <!-- Vue.js -->
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
@@ -45,13 +44,9 @@
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
 </a>&nbsp;
-<!-- Postman -->
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>&nbsp;
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
+<!-- RabbitMQ -->
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
 </a>&nbsp;
 <!-- CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -81,10 +76,6 @@
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
 <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="wireshark" width="40" height="40"/>
 </a>
-<!-- VirtualBox -->
-<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/>
-</a>
 <!-- Jenkins -->
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
@@ -95,6 +86,10 @@
 
 <p align="left">
 
+<!-- PostrgeSQL -->
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
+</a>&nbsp;
 <!-- MariaDB -->
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
@@ -103,18 +98,10 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
 </a>&nbsp;
-<!-- PostrgeSQL -->
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
-</a>&nbsp;
 <!-- Redis -->
 <a href="https://redis.io" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
 </a>&nbsp;
-<!-- SQLite -->
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-</a>
 </p>
 
 <h3 align="left">Operation Systems:</h3>
@@ -136,7 +123,11 @@
 </p>
 
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ig-rudenko&show_icons=true&locale=en" alt="ig-rudenko" /></p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ig-rudenko" alt="ig-rudenko" /></a>
+
+
+<hr>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ig-rudenko&show_icons=true&locale=en" alt="ig-rudenko" />
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ig-rudenko&show_icons=true&locale=en&layout=compact" alt="ig-rudenko" /></p>
