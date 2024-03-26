@@ -102,6 +102,10 @@
 <a href="https://redis.io" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
 </a>&nbsp;
+<!-- Mongodb -->
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+</a>&nbsp;
 </p>
 
 <h3 align="left">Operation Systems:</h3>
