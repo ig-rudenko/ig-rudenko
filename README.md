@@ -129,10 +129,10 @@
 <hr>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ig-rudenko&no-frame=true&no-bg=true&theme=onedark" alt="ig-rudenko" /></a>
 
-
+<!--
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ig-rudenko&show_icons=true&locale=en" alt="ig-rudenko" />
 
-<!--
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ig-rudenko&show_icons=true&locale=en&layout=compact" alt="ig-rudenko" /></p>
 -->
