@@ -127,7 +127,7 @@
 </p>
 
 <hr>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ig-rudenko&no-frame=true&no-bg=true&theme=onedark" alt="ig-rudenko" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ig-rudenko&no-frame=true&no-bg=true&theme=discord" alt="ig-rudenko" /></a>
 
 
 <hr>
