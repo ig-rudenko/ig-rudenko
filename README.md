@@ -5,6 +5,11 @@
   <a href="https://www.linkedin.com/in/igor-rudenko-a59592222/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
+  <a href="https://habr.com/ru/users/ig_rudenko/publications/articles/" target="_blank">
+    <img src="https://img.shields.io/badge/Хабр-skyblue?style=for-the-badge&logo=habr&logoColor=white" alt="Хабр Badge"/>
+  </a>
+  
 </div>
 
 
