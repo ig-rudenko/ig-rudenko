@@ -13,16 +13,13 @@
 </div>
 
 
-<h4 align="left">Languages & Frameworks:</h4>
+<h4 align="left">Skills:</h4>
 
-![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,bash,django,flask,fastapi,vue)
-
-<h4 align="left">Techs:</h4>
-
-![My Skills](https://skillicons.dev/icons?i=docker,ansible,nginx,rabbitmq,elasticsearch,jenkins)
+![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,bash,django,fastapi,flask,vue,vite,tailwind,webpack)
 
 
-<h4 align="left">Databases:</h4>
+![My Skills](https://skillicons.dev/icons?i=linux,docker,ansible,nginx,rabbitmq,elasticsearch,jenkins)
+
 
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis,mongo)
 
