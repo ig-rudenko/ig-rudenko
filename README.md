@@ -18,10 +18,10 @@
 ![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,bash,django,fastapi,flask,vue,vite,tailwind,webpack)
 
 
-![My Skills](https://skillicons.dev/icons?i=linux,docker,ansible,nginx,rabbitmq,elasticsearch,jenkins)
+![My Skills](https://skillicons.dev/icons?i=linux,docker,ansible,nginx,rabbitmq,jenkins)
 
 
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis,mongo)
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch,mongo)
 
 <hr>
 
