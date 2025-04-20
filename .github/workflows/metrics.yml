@@ -38,7 +38,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, mako, dockerfile
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
@@ -49,3 +49,4 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: icons
           plugin_topics_sort: stars
+          plugin_gists: yes
