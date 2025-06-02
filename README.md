@@ -18,7 +18,7 @@
 ![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,bash,django,fastapi,flask,vue,vite,tailwind,webpack)
 
 
-![My Skills](https://skillicons.dev/icons?i=linux,docker,ansible,nginx,rabbitmq,jenkins)
+![My Skills](https://skillicons.dev/icons?i=linux,docker,ansible,nginx,rabbitmq,jenkins,terraform,vault)
 
 
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch,mongo)
