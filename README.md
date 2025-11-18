@@ -15,10 +15,10 @@
 
 <h4 align="left">Skills:</h4>
 
-![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,bash,django,fastapi,flask,vue,vite,tailwind,webpack)
+![Backend](https://skills.syvixor.com/api/icons?perline=15&i=python,golang,javascript,typescript,bash,django,djangorestframework,fastapi,flask,vuejs,primevue,vite,tailwindcss)
 
 
-![My Skills](https://skillicons.dev/icons?i=linux,docker,ansible,nginx,rabbitmq,jenkins,terraform,vault)
+![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=linux,docker,nginx,ansible,rabbitmq,gitlab,keycloak,jenkins,vault,terraform,vagrant)
 
 
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch,mongo)
