@@ -15,11 +15,9 @@
 
 <h4 align="left">Skills:</h4>
 
-![Backend](https://skills.syvixor.com/api/icons?perline=15&i=python,golang,javascript,typescript,bash,django,djangorestframework,fastapi,flask,vuejs,primevue,vite,tailwindcss)
+![Langs&Libs](https://go-skill-icons.vercel.app/api/icons?perline=15&i=python,golang,javascript,typescript,bash,django,fastapi,flask,vuejs,primevue,vite,tailwindcss,leaflet)
 
-
-![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=linux,docker,nginx,ansible,rabbitmq,gitlab,keycloak,jenkins,vault,terraform,vagrant)
-
+![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=linux,docker,nginx,ansible,rabbitmq,gitlab,keycloak,jenkins,vault,terraform,vagrant,jwt)
 
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch,mongo)
 
